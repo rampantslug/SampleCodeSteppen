@@ -1,10 +1,12 @@
 # SampleCodeSteppen
 Some sample code from my work at Steppen
 
-This is just a small snapshot of some of the work that I did at Steppen - Note: It will obviously not work as is
+This is just a small snapshot of some of the work that I did at Steppen - Note: It will obviously not work as is.
+
 Included a few images showing some of the UI/UX that we went for.
 
 Uses graphql for fetching/updating backend
+
 Uses Magnus-ui for UI framework
 
 Our CTO Dave said to blame any bad code on him. Haha. 
